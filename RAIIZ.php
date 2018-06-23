@@ -76,7 +76,7 @@ $emo=array (
 $emot=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-' '.$hamemo.'  тσρ ℓgα куα  '.$emot.'  '.$half.'  '.$hamemo.'
+'
 '.$zrilta.' CHBOTTER-GREETING,TK '.$hamza.'  ', 
 );
 
